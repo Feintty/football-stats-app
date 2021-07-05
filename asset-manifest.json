@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/football-stats-app/static/css/main.db47112e.chunk.css",
-    "main.js": "/football-stats-app/static/js/main.57f1289e.chunk.js",
-    "main.js.map": "/football-stats-app/static/js/main.57f1289e.chunk.js.map",
+    "main.js": "/football-stats-app/static/js/main.bdd63214.chunk.js",
+    "main.js.map": "/football-stats-app/static/js/main.bdd63214.chunk.js.map",
     "runtime-main.js": "/football-stats-app/static/js/runtime-main.7712de6c.js",
     "runtime-main.js.map": "/football-stats-app/static/js/runtime-main.7712de6c.js.map",
-    "static/js/2.5d3fe42d.chunk.js": "/football-stats-app/static/js/2.5d3fe42d.chunk.js",
-    "static/js/2.5d3fe42d.chunk.js.map": "/football-stats-app/static/js/2.5d3fe42d.chunk.js.map",
+    "static/js/2.8b9abe37.chunk.js": "/football-stats-app/static/js/2.8b9abe37.chunk.js",
+    "static/js/2.8b9abe37.chunk.js.map": "/football-stats-app/static/js/2.8b9abe37.chunk.js.map",
     "index.html": "/football-stats-app/index.html",
     "static/css/main.db47112e.chunk.css.map": "/football-stats-app/static/css/main.db47112e.chunk.css.map",
-    "static/js/2.5d3fe42d.chunk.js.LICENSE.txt": "/football-stats-app/static/js/2.5d3fe42d.chunk.js.LICENSE.txt"
+    "static/js/2.8b9abe37.chunk.js.LICENSE.txt": "/football-stats-app/static/js/2.8b9abe37.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7712de6c.js",
-    "static/js/2.5d3fe42d.chunk.js",
+    "static/js/2.8b9abe37.chunk.js",
     "static/css/main.db47112e.chunk.css",
-    "static/js/main.57f1289e.chunk.js"
+    "static/js/main.bdd63214.chunk.js"
   ]
 }

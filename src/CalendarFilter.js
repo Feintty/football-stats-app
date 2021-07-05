@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import { Paper, TextField, IconButton, Grid } from "@material-ui/core";
-import "date-fns";
 import DateFnsUtils from "@date-io/date-fns";
 import {
   KeyboardDatePicker,
